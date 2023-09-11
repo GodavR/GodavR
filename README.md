@@ -38,13 +38,18 @@
 </div>
 
 <h3 align="center">📃 Catatan Utama</h3>
-<!--
+
 <p align="center">
-  Jangan lewatkan catatan utama saya:
-  //<a href="https://github.com/yourusername/golang-notes/tree/main/notes">Catatan Pribadi Go</a> |
-  //<a href="https://github.com/yourusername/golang-notes/tree/main/tutorials">Tutorial Go</a>
+  Jangan lewatkan catatan utama saya: <br />
+  <b>Dasar : </b> <br />
+  <a href="https://github.com/GodavR/coretan-ubuntu/tree/main">Catatan Pribadi Dasar Os Ubuntu</a> |
+  <a href="https://github.com/GodavR/coretan-ubuntu/tree/mai">Catatan Pribadi Dasar Github</a> |
+  <a href="https://github.com/GodavR/coretan-ubuntu/tree/mai">Catatan Pribadi Git Kontribusi</a> |
+  <br /> <br />
+  <b>Go : </b> <br />
+  <!-- <a href="https://github.com/GodavR/coretan-ubuntu/tree/main">Catatan Pribadi Dasar Os Ubuntu</a> | --!>
 </p>
--->
+
 <h2 align="center">📫 Kontak</h2>
 
 <p align="center">
