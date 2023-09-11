@@ -60,10 +60,11 @@
 <p align="center">
   Terima kasih telah bergabung dengan saya di Catatan Pribadi Godav Mari bersama-sama belajar dan berkembang.
 </p>
-
-<h3 align="center">My Note :</h3>
+<h2 align="center">MY NOTE</h2>
+<p align="center">
 - God only gives the best, even if sometimes not as desired. ... Believe me, God has a good plan for your life. <br />
 - This is the real secret of life – to be fully involved with what you are doing in the here and now. And instead of calling it work, realize it's a game. <br/>
 - Ayuk kita belajar bersama... 🤝 👯 👨‍💻 📝 📄 ⚡ <br />
 - Gak ada orang bodoh, yang ada hanya orang yang belum mengetahui dan kita telah terlebih dahulu mengetahui maka sudah kewajiban kita untuk membantu...
+  </p>
 <hr />
