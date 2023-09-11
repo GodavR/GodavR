@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="header.jpg" alt="Header">
-</p>
-
 <h1 align="center">Selamat datang di Catatan Pribadi Golang! 📚</h1>
 
 <p align="center">Tempatnya catatan dan tutorial pribadi tentang bahasa pemrograman Go (Golang).</p>
