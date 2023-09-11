@@ -47,10 +47,10 @@
   <a href="https://github.com/GodavR/coretan-git-kontribusi/tree/main">Catatan Pribadi Git Kontribusi</a> |
   <a href="https://github.com/GodavR/coretan-install-golang">Catatan Pribadi Golang</a> |
   <br /> <br />
-  <b>Go : </b> <br />
-  1.<a href="https://github.com/GodavR/golang-first-repo">Catatan Pribadi Template Go Project</a>
+  <b>Golang : </b> <br />
+  1.<a href="https://github.com/GodavR/golang-first-repo">Catatan Pribadi Template Go Project</a><br />
   2.<a href="https://github.com/GodavR/coretan-install-golang">Catatan Pribadi Golang</a><br />
-  3.<a href="https://github.com/GodavR/golang-variable/tree/main">Catatan Pribadi Golang Variable</a>
+  3.<a href="https://github.com/GodavR/golang-variable/tree/main">Catatan Pribadi Golang Variable</a><br />
 </p>
 
 <h2 align="center">📫 Kontak</h2>
