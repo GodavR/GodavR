@@ -48,7 +48,7 @@
 <h2 align="center">📫 Kontak</h2>
 
 <p align="center">
-  Untuk pertanyaan, saran, atau ingin berkolaborasi, silakan hubungi saya melalui .
+  Untuk pertanyaan, saran, atau ingin berkolaborasi, silakan hubungi saya melalui <b>mail.davidrinaldi@gmail.com</b> .
 </p>
 
 <p align="center">
