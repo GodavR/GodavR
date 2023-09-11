@@ -6,9 +6,9 @@
   <a href="https://github.com/GodavR/stargazers">
     <img src="https://img.shields.io/github/stars/GodavR.svg?style=for-the-badge&label=Stars&color=yellow" alt="Stars">
   </a>
-  <a href="https://github.com/GodavR/issues">
+  <!-- <a href="https://github.com/GodavR/issues">
     <img src="https://img.shields.io/github/issues/GodavR.svg?style=for-the-badge&label=Issues&color=red" alt="Issues">
-  </a>
+  </a> --!>
 </div>
 
 <h2 align="center">Apa yang Kami Bagikan</h2>
