@@ -43,14 +43,14 @@
   Jangan lewatkan catatan utama saya: <br />
   <b>Dasar : </b> <br />
   <a href="https://github.com/GodavR/coretan-ubuntu/tree/main">Catatan Pribadi Dasar Os Ubuntu</a> |
-  <a href="https://github.com/GodavR/coretan-ubuntu/tree/main">Catatan Pribadi Dasar Github</a> |
+  <a href="https://github.com/GodavR/coretan-github/tree/main">Catatan Pribadi Dasar Github</a> |
   <a href="https://github.com/GodavR/coretan-git-kontribusi/tree/main">Catatan Pribadi Git Kontribusi</a> |
   <a href="https://github.com/GodavR/coretan-install-golang">Catatan Pribadi Golang</a> |
   <br /> <br />
   <b>Go : </b> <br />
-  <a href="https://github.com/GodavR/golang-first-repo">Catatan Pribadi Template Go Project</a> |
-  <a href="https://github.com/GodavR/coretan-install-golang">Catatan Pribadi Golang</a> |
-  <!-- <a href="https://github.com/GodavR/coretan-ubuntu/tree/main">Catatan Pribadi Dasar Os Ubuntu</a> | --!>
+  1.<a href="https://github.com/GodavR/golang-first-repo">Catatan Pribadi Template Go Project</a>
+  2.<a href="https://github.com/GodavR/coretan-install-golang">Catatan Pribadi Golang</a><br />
+  3.<a href="https://github.com/GodavR/golang-variable/tree/main">Catatan Pribadi Golang Variable</a>
 </p>
 
 <h2 align="center">📫 Kontak</h2>
