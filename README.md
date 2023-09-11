@@ -19,7 +19,7 @@
 
 <div align="center">
   <h3>📝 Catatan Pribadi</h3>
-  <p>Silakan jelajahi catatan pribadi saya tentang Go dan pelajari bersama-sama.</p>
+  <p>Silahkan jelajahi catatan pribadi saya tentang Go dan pelajari bersama-sama.</p>
   
   <h3>📚 Tutorial</h3>
   <p>Saya juga berbagi tutorial dan panduan tentang Go yang saya buat berdasarkan pengalaman pribadi saya.</p>
