@@ -38,13 +38,13 @@
 </div>
 
 <h3 align="center">📃 Catatan Utama</h3>
-
+<!--
 <p align="center">
   Jangan lewatkan catatan utama saya:
   //<a href="https://github.com/yourusername/golang-notes/tree/main/notes">Catatan Pribadi Go</a> |
   //<a href="https://github.com/yourusername/golang-notes/tree/main/tutorials">Tutorial Go</a>
 </p>
-
+-->
 <h2 align="center">📫 Kontak</h2>
 
 <p align="center">
